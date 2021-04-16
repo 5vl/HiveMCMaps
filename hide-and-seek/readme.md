@@ -32,3 +32,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/cs_office)
 
 <img src="cs_office/screenshot.png" width="500px">
+
+## Villa
+*Created by Team Vareide*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/villa)
+
+<img src="villa/screenshot.png" width="500px">

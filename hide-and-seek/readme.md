@@ -27,6 +27,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="chinatown/screenshot.png" width="500px">
 
+## Cruise
+*Created by xeargasm*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/cruise)
+
+<img src="cruise/screenshot.png" width="500px">
+
 ## CS_Office
 *Created by Fowben (Team Nectar)*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/cs_office)

@@ -50,6 +50,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="gold-rush/screenshot.png" width="500px">
 
+## Industria
+*Created by kwirky*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/industria)
+
+<img src="industria/screenshot.png" width="500px">
+
 ## Kingston
 *Created by Fowben and turtlelord66 (Team Nectar)*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/kingston)

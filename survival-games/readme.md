@@ -22,6 +22,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="sg4-revamped/screenshot.png" width="500px">
 
+## Survival Games 7
+*Created by Team Vareide*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/survival-games-7)
+
+<img src="survival-games-7/screenshot.png" width="500px">
+
 ## Winter Wonderland
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/winter-wonderland)
 

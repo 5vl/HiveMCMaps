@@ -56,6 +56,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="kingston/screenshot.png" width="500px">
 
+## Keep
+*Created by Team Nectar*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/keep)
+
+<img src="keep/screenshot.png" width="500px">
+
 ## Oasis
 *Created by Timmetatsch (Team Nectar)*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/oasis)

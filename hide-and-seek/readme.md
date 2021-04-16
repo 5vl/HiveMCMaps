@@ -14,3 +14,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/animal-village)
 
 <img src="animal-village/screenshot.png" width="500px">
+
+## Chinatown
+*Created by kwirky*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/chinatown)
+
+<img src="chinatown/screenshot.png" width="500px">

@@ -50,23 +50,29 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="gold-rush/screenshot.png" width="500px">
 
+## Hotel
+*Created by Sturbo and Desperati0n*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hotel)
+
+<img src="hotel/screenshot.png" width="500px">
+
 ## Industria
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/industria)
 
 <img src="industria/screenshot.png" width="500px">
 
-## Kingston
-*Created by Fowben and turtlelord66 (Team Nectar)*
-[Download](https://github.com/Nixinova/HiveMC/releases/tag/kingston)
-
-<img src="kingston/screenshot.png" width="500px">
-
 ## Keep
 *Created by Team Nectar*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/keep)
 
 <img src="keep/screenshot.png" width="500px">
+
+## Kingston
+*Created by Fowben and turtlelord66 (Team Nectar)*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/kingston)
+
+<img src="kingston/screenshot.png" width="500px">
 
 ## Lotus
 *Created by Cameron224, Wrothie, and Pyxis*
@@ -103,6 +109,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/town-square)
 
 <img src="town-square/screenshot.png" width="500px">
+
+## Venice Bridge
+*Created by Cameron224 (Team Nectar)*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/venice-bridge)
+
+<img src="venice-bridge/screenshot.png" width="500px">
 
 ## Villa
 *Created by Team Vareide*

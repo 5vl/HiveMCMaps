@@ -62,6 +62,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="keep/screenshot.png" width="500px">
 
+## Lotus
+*Created by Cameron224, Wrothie, and Pyxis*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/lotus)
+
+<img src="lotus/screenshot.png" width="500px">
+
 ## Oasis
 *Created by Timmetatsch (Team Nectar)*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/oasis)

@@ -80,6 +80,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="sunset-terrace/screenshot.png" width="500px">
 
+## Talavera
+*Created by Team Nectar*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/talavera)
+
+<img src="talavera/screenshot.png" width="500px">
+
 ## Town Square
 *Created by Team Nectar*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/town-square)

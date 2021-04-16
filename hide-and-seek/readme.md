@@ -33,6 +33,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="cs_office/screenshot.png" width="500px">
 
+## Sequoia
+*Created by kwirky*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/sequoia)
+
+<img src="sequoia/screenshot.png" width="500px">
+
 ## Town Square
 *Created by Team Nectar*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/town-square)

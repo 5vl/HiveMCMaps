@@ -39,6 +39,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="cs_office/screenshot.png" width="500px">
 
+## Frozen
+*Created by Team Nectar*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/frozen)
+
+<img src="frozen/screenshot.png" width="500px">
+
 ## Gold Rush
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/gold-rush)
 

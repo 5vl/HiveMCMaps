@@ -62,6 +62,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="sequoia/screenshot.png" width="500px">
 
+## Sunset Terrace
+*Created by cjeich*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/sunset-terrace)
+
+<img src="sunset-terrace/screenshot.png" width="500px">
+
 ## Town Square
 *Created by Team Nectar*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/town-square)

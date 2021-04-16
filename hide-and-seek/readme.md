@@ -33,6 +33,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="cs_office/screenshot.png" width="500px">
 
+## Oasis
+*Created by Timmetatsch (Team Nectar)*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/oasis)
+
+<img src="oasis/screenshot.png" width="500px">
+
 ## Sequoia
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/sequoia)

@@ -15,6 +15,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="animal-village/screenshot.png" width="500px">
 
+## Before Space
+*Created by DirtDragon and Mouldy_Burrito*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/before-space)
+
+<img src="before-space/screenshot.png" width="500px">
+
 ## Chinatown
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/chinatown)

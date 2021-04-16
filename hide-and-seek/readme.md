@@ -33,6 +33,11 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="cs_office/screenshot.png" width="500px">
 
+## Gold Rush
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/gold-rush)
+
+<img src="gold-rush/screenshot.png" width="500px">
+
 ## Oasis
 *Created by Timmetatsch (Team Nectar)*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/oasis)

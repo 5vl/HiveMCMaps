@@ -1,6 +1,6 @@
 # HiveMC Archive
 
-An archive of various HiveMC world save files from April 2021, shortly before the server shuts down.
+An archive of various HiveMC world save files from April 2021, shortly before the server shut down.
 
 See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of all save file downloads.
 

@@ -4,6 +4,11 @@ An archive of HiveMC Survival Games maps.
 
 See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of all save file downloads.
 
+## Lobby
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/survival-games-lobby)
+
+<img src="lobby/screenshot.png" width="500px">
+
 ## Eau De Source
 *Created by welli98 & ItzGrizzly*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/eau-de-source)

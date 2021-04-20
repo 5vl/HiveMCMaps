@@ -86,6 +86,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="oasis/screenshot.png" width="500px">
 
+## Paris
+*Created by lederpycow, Dueces, and Sphere (Team Nectar)*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/paris)
+
+<img src="paris/screenshot.png" width="500px">
+
 ## Sequoia
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/sequoia)

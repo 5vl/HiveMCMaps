@@ -50,6 +50,11 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="gold-rush/screenshot.png" width="500px">
 
+## Hospital
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hotel)
+
+<img src="hotel/screenshot.png" width="500px">
+
 ## Hotel
 *Created by Sturbo and Desperati0n*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hotel)

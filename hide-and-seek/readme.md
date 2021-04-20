@@ -56,6 +56,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="gold-rush/screenshot.png" width="500px">
 
+## Hearthstone Village
+*Created by ViridianVenom*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hearthstone-village)
+
+<img src="hearthstone-village/screenshot.png" width="500px">
+
 ## Hospital
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hotel)
 

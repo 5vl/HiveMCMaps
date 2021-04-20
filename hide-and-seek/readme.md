@@ -109,6 +109,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="pineapple-port/screenshot.png" width="500px">
 
+## Pripyat
+*Created by Team Nectar*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/pripyat)
+
+<img src="pripyat/screenshot.png" width="500px">
+
 ## Sequoia
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/sequoia)

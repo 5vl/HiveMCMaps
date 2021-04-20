@@ -21,6 +21,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="before-space/screenshot.png" width="500px">
 
+## Bora Bora
+*Created by Team Applecore*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/bora-bora)
+
+<img src="bora-bora/screenshot.png" width="500px">
+
 ## Chinatown
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/chinatown)

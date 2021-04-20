@@ -104,6 +104,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="sequoia/screenshot.png" width="500px">
 
+## Space
+*Created by Team Vareide*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/space)
+
+<img src="space/screenshot.png" width="500px">
+
 ## Sunset Terrace
 *Created by cjeich*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/sunset-terrace)

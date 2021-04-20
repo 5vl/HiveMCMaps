@@ -61,6 +61,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="hotel/screenshot.png" width="500px">
 
+## Humbug St.
+*Created by _tim*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/humbug-st)
+
+<img src="humbug-st/screenshot.png" width="500px">
+
 ## Industria
 *Created by kwirky*
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/industria)
